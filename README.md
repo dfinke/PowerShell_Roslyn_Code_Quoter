@@ -4,6 +4,11 @@ Transcoded from Kirill Osenkov http://code.msdn.microsoft.com/Roslyn-Code-Quoter
 
 Blog post http://blogs.msdn.com/b/kirillosenkov/archive/2012/07/22/roslyn-code-quoter-tool-generating-syntax-tree-api-calls-for-any-c-program.aspx
 
+Note
+====
+
+Upadted ReferencedAssemblies.ps1 to point to where you have the Roslyn CTP installed.
+
 Run It
 ======
 ```PowerShell
