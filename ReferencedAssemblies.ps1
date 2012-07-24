@@ -1,0 +1,1 @@
+﻿"c:\Program Files (x86)\Reference Assemblies\Microsoft\Roslyn\v1.1\Roslyn.Compilers.dll", "c:\Program Files (x86)\Reference Assemblies\Microsoft\Roslyn\v1.1\Roslyn.Compilers.CSharp.dll"
