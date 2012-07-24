@@ -1,12 +1,13 @@
 PowerShell Roslyn Code Quoter
 =============================
 Transcoded from Kirill Osenkov http://code.msdn.microsoft.com/Roslyn-Code-Quoter-f724259e
+
 Blog post http://blogs.msdn.com/b/kirillosenkov/archive/2012/07/22/roslyn-code-quoter-tool-generating-syntax-tree-api-calls-for-any-c-program.aspx
 
 Run It
 ======
 ```PowerShell
-    .\quoting.ps1 "var x = 1;"
+.\quoting.ps1 "var x = 1;"
 ```
 Result
 ======
