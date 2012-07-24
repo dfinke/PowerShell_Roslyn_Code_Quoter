@@ -7,7 +7,7 @@ Blog post http://blogs.msdn.com/b/kirillosenkov/archive/2012/07/22/roslyn-code-q
 Note
 ====
 
-Upadted ReferencedAssemblies.ps1 to point to where you have the Roslyn CTP installed.
+Update ReferencedAssemblies.ps1 to point to where you have the Roslyn CTP installed.
 
 Run It
 ======
